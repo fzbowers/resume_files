@@ -1,8 +1,7 @@
 // Lab7- The Maze Solver
 // Name- Fatima Bowers
 // Due- 4/4/22 at 2am
-// Description- Solve a maze given on standard input by employing depth first search. Maze files must contain a "ROWS r COLS c" line, and can 
-   optionally contain "WALL index index" lines.
+// Description- Solve a maze given on standard input by employing depth first search. Maze files must contain a "ROWS r COLS c" line, and can optionally contain "WALL index index" lines.
 
 #include <iostream>
 #include <cstdio>
