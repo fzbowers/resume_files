@@ -1,6 +1,6 @@
-// Lab4- Enumeration
-// Name- Fatima Bowers
-// Due- 3/7/22 at 2am 
+// Enumeration
+// Fatima Bowers
+// 3/7/22 
 // Description- This program performs enumerations of square matrices, the elements can be a '.', 'X', or 'E'. The enumeration is parameterized by W, the number of rows, and E, the extra non-zero entries. The program takes three command line arguments: W, E, and either an 'x' or an 'h'. It will enumerate all matrices for W and E anad print them out in one of two formats.
 
 #include <iostream>
