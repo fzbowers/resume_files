@@ -1,6 +1,6 @@
-//Lab7- code processor
-//Name- Fatima Bowers
-//Due- 10/26/21 at 2am
+//code processor
+//Fatima Bowers
+//10/26/21
 //Description- Rewards program where users can enter codes via a web site, or register cell phones with their account and text codes, which will register points. Write a server that maintains information about users, prizes, and codes
 
 #include "code_processor.hpp"
