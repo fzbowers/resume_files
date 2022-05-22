@@ -1,6 +1,6 @@
-//Lab9- Letter Dice (Network Flow)
-//Name- Fatima Bowers
-//Due- 4/25/22 at 2am
+// Letter Dice (Network Flow)
+// Fatima Bowers
+// 4/25/22
 //Description- Program is given a dice file with a list of dice strings and a word file with a list of words. Find if each word can be spelled by matching each letter with a different dice. If the word can be spelled, print the order of dice used to spell the word.
 
 #include <iostream>
